@@ -1,2 +1,7 @@
-# demo-consultorio-odontologico-gerez-sergio-gu
-Demo web para Consultorio Odontológico Gerez Sergio Gustavo — diseñada por eterlab.
+# Consultorio Odontológico Gerez Sergio Gustavo
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
